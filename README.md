@@ -1,2 +1,2 @@
-# Einkaufsliste-
+# Einkaufsliste
 Rewe Einkauf
